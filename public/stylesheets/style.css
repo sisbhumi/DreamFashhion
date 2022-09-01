@@ -253,6 +253,7 @@ hr.gradient-style {
 .hero-container {
   display: grid;
   overflow: hidden;
+  height: 15em;
 }
 
 .hero-image,
